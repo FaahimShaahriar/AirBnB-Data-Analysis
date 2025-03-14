@@ -1,7 +1,9 @@
 **🏠 Airbnb Data Analysis 🏠**
+
 Welcome to the Airbnb Data Analysis project! This repository is dedicated to extracting valuable insights from Airbnb's 2019 dataset and visualizing them using Power BI. The aim is to uncover patterns and trends related to room types, pricing, and reviews to better understand the dynamics of Airbnb listings.
 
 **📂 Project Files**
+
 Here’s an overview of the files included in this project:
 
 DashboardAirBnB.pbix
@@ -20,6 +22,7 @@ airbnb_room_type_cleaned.xlsx
 A cleaned version of the airbnb_room_type.xlsx file, with unnecessary data removed.
 
 **🔍 Key Insights**
+
 This project explores various aspects of the Airbnb dataset:
 
 Room Types:
